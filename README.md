@@ -1,6 +1,7 @@
 # Random Prompt Generator with Image Display
 
 This PyQt6 application generates random prompts from text files within a selected folder and displays a corresponding image (if one exists with the same base filename). It's designed for creative tasks, such as generating prompts for AI image generation or writing.
+Halfly inspired by [Shamaya](https://github.com/joeflack4/sd-revolution)
 
 ## Features
 
