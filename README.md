@@ -41,7 +41,7 @@ This PyQt6 application generates random prompts from text files within a selecte
 
 ## Usage
 
-1.  **Create a `prefixes.json` file:**  This file defines the available prefix types and their associated prefixes.  Example:
+1.  **Edit the `prefixes.json` file:**  This file defines the available prefix types and their associated prefixes. We have an inclusive Example:
 
     ```json
     {
@@ -52,7 +52,7 @@ This PyQt6 application generates random prompts from text files within a selecte
     ```
     Place the file in the same directory as your script.
 
-2.  **Prepare your data folder:** Create a folder containing `.txt` files (one prompt per file) and corresponding image files (e.g., `image1.txt`, `image1.png`). The filenames (without extensions) should match.
+2.  **Prepare your data folder:** Create a folder containing `.txt` files, preferably one `prompt` per file, i.e. if you've used W-D tagger or a captioner, you may already have a `dataset` available in a folder or zip file.
 
 3.  **Run the application:**
 
