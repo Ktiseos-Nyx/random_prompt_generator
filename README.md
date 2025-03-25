@@ -28,7 +28,7 @@ This PyQt6 application generates random prompts from text files within a selecte
 1.  **Clone the repository:**
 
     ```bash
-    git clone <[your_repository_ur](https://github.com/Ktiseos-Nyx/random_prompt_generator)l>
+    git clone <[https://github.com/Ktiseos-Nyx/random_prompt_generator/edit/main/README.md](https://github.com/Ktiseos-Nyx/random_prompt_generator)>
     cd <random_prompt_generator>
     ```
 
