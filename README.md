@@ -28,16 +28,15 @@ This PyQt6 application generates random prompts from text files within a selecte
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_name>
+    git clone <[your_repository_ur](https://github.com/Ktiseos-Nyx/random_prompt_generator)l>
+    cd <random_prompt_generator>
     ```
 
 2.  **Install dependencies:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install Pyqt6 Pillow
     ```
-    (Create a `requirements.txt` file containing `PyQt6` and `Pillow`)
 
 ## Usage
 
